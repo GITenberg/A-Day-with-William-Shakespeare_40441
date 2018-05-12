@@ -1,0 +1,61 @@
+_repo: A-Day-with-William-Shakespeare_40441
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+  - agent_name: Thomson, Hugh
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '24921'
+    url: http://www.gutenberg.org/2009/agents/24921
+  - agent_name: Hatherell, William
+    alias: Hatherell, W. (William)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '7578'
+    url: http://www.gutenberg.org/2009/agents/7578
+  - agent_name: Simmonds, W. G. (William George)
+    alias: Simmonds, William George
+    birthdate: 1876
+    deathdate: 1968
+    gutenberg_agent_id: '40623'
+    url: http://www.gutenberg.org/2009/agents/40623
+  - agent_name: Dulac, Edmund
+    alias: Dulac, Edmond
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '7657'
+    url: http://www.gutenberg.org/2009/agents/7657
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
+covers:
+- cover_type: archival
+  image_path: 40441-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Clare, Maurice
+    - Gillington, M. C. (May Clarissa)
+    - Gillington, May Clarissa
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcc 'PR'
+title: A Day with William Shakespeare
+url: http://www.gutenberg.org/ebooks/40441
